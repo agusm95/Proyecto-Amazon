@@ -27,7 +27,7 @@ Esta página es la carátula de la presentación. Desde ella se puede
 navegar a las otras paginas que tienen los reportes, a través de los
 botones nombrados: Productos por categoría, Ventas y Ventas
 categoría/comparación.
-![image](images\inicio.png)<br>
+![image](https://github.com/agusm95/Proyecto-Amazon/blob/main/images/inicio.png)<br>
 
 2)Productos de la Web
 
