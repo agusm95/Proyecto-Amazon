@@ -34,7 +34,7 @@ categoría/comparación.
 En esta página podemos encontrar arriba en el medio el título de la
 pestaña que se está analizando(Productos de la web) en la solapa.
 
-![image]([images\productos.png](https://github.com/agusm95/Proyecto-Amazon/blob/main/images/productos.png))<br>
+![image]([images\productos.png](https://github.com/agusm95/Proyecto-Amazon/blob/main/images/productos.png)<br>
 
 3)Dashboard Ventas
 
